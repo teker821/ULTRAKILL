@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Facepunch.Steamworks.Win64">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\Facepunch.Steamworks.Win64.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ResourceManager">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\Unity.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Addressables">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\Unity.Addressables.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\Unity.InputSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="NavMeshComponents">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\NavMeshComponents.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityUIExtensions">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityUIExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="pcon.unity">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\pcon.unity.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="NewBlood.LegacyInput">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\NewBlood.LegacyInput.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\Unity.ProBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>..\..\..\how to make a fursuit from scratch\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
